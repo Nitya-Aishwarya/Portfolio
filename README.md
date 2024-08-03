@@ -10,7 +10,6 @@ HTML (Hypertext Markup Language) forms the backbone of the website, defining its
 4.Experience Section: Details job roles, periods, and descriptions of responsibilities and achievements in a timeline format.
 5.Education Section: Lists academic achievements with titles, periods, and descriptions, showcasing educational background and qualifications.
 6.Contact Section: Includes a form for name, email, address, phone number, and message, facilitating communication with potential employers or collaborators.
-
 # CSS Overview
 CSS (Cascading Style Sheets) is used to style the HTML content, ensuring a visually appealing and consistent appearance across the website. Key styling elements include:
 
@@ -20,7 +19,6 @@ CSS (Cascading Style Sheets) is used to style the HTML content, ensuring a visua
 4.Projects Section: Styles each project entry with borders, padding, and margins for clear separation and readability.
 5.Experience and Education Sections: Uses borders and positioning to create a timeline effect, with differentiated styles for titles, periods, and descriptions.
 6.Contact Section: Styles form elements for readability and usability, with padding, margins, and border styles applied to input fields and textarea.
-
 # JavaScript Overview
 JavaScript enhances the interactivity and functionality of the website. Key functionalities include:
 
