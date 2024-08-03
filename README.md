@@ -4,9 +4,9 @@ The Personal Portfolio Website project offers numerous advantages, serving as a 
 # HTML Overview
 HTML (Hypertext Markup Language) forms the backbone of the website, defining its structure and content. Here are the key sections:
 
-*1.Home Section*: Contains the navigation bar, introduction, professional photo, and social media links. It provides a first impression and overview of Nitya Aishwarya.
+**1.Home Section**: Contains the navigation bar, introduction, professional photo, and social media links. It provides a first impression and overview of Nitya Aishwarya.
 
-*2.Skills Section*: Lists technical skills with corresponding proficiency levels represented by skill bars.
+**2.Skills Section**: Lists technical skills with corresponding proficiency levels represented by skill bars.
 
 3.Projects Section: Features each project with a title and description, highlighting key projects and their impact.
 
